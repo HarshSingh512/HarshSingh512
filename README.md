@@ -105,9 +105,3 @@ Threat hunting queries and investigation techniques used during proactive securi
 
 * LinkedIn
   https://www.linkedin.com/in/harsh-singh-204399227
-
----
-
-# 🐍 Contribution Snake
-
-![snake gif](https://github.com/HarshSingh512/HarshSingh512/blob/output/github-contribution-grid-snake.svg)
