@@ -101,17 +101,7 @@ Threat hunting queries and investigation techniques used during proactive securi
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshSingh512&layout=compact&theme=tokyonight"/>
 </p>
 
----
 
-# 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=HarshSingh512&theme=darkhub"/>
-</p>
-
----
-
-# 🌐 Connect With Me
 
 * LinkedIn
   https://www.linkedin.com/in/harsh-singh-204399227
